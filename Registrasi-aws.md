@@ -34,7 +34,7 @@ Lupa screen shot tampilannya jadi terskip
 
 ![alt text](<WhatsApp Image 2026-02-09 at 11.44.04.jpeg>)
 
-10. Sign in for Aws
+10. Signup SMS verfication for Aws
 
 ![alt text](image-7.png)
 
@@ -44,4 +44,4 @@ Lupa screen shot tampilannya jadi terskip
 
 12. Selesai 100$ saldo
 
-![alt text](<WhatsApp Image 2026-02-09 at 13.53.26.jpeg>)
+![alt text](image-9.png)
